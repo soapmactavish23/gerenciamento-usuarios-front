@@ -31,6 +31,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </p>
 
 ## Back-end
-	
-	- [Back-end](https://github.com/soapmactavish23/gerenciamento-usuarios-front)
+
+- [Back-end](https://github.com/soapmactavish23/gerenciamento-usuarios-front)
 	
