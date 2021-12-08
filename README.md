@@ -29,3 +29,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p float="left">
 	<img src="print1.PNG" width="450">
 </p>
+
+## Back-end
+	
+	- [Back-end](https://github.com/soapmactavish23/gerenciamento-usuarios-front)
+	
